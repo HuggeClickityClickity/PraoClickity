@@ -1,0 +1,71 @@
+#title {
+    color: rgba(61, 201, 61, 0.945)
+}
+
+#count {
+    font-weight: 900;
+}
+
+
+#add4button {
+    background-color: aqua;
+}
+
+#add10button {
+    background-color: darkgreen;
+}
+
+#add100button {
+    background-color: gold;
+}
+
+#minus1button {
+    background-color: blueviolet;
+}
+
+#minus10000button {
+    background-color: darkred;
+}
+
+#x2button {
+    background-color: cadetblue;
+}
+
+#div2button {
+    background-color: coral;
+}
+
+#add05button {
+    background-color: darkseagreen;
+}
+
+#minus05button {
+    background-color: fuchsia;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1669090787997-1d7878a44be7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#square {
+    border: 5px solid red;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+}
+
+#square-child {
+    height: 50px;
+    width: 50px;
+    background-color:black;
+
+}
