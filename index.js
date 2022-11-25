@@ -159,7 +159,7 @@ const randomObject = () => {
     element.style.backgroundColor = colors[rColor]
 
 
-  },2000)
+  },1000)
 }
 
 const squarePositions = [
